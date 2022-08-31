@@ -1,0 +1,308 @@
+﻿@media (min-width: 1200px) {
+
+     .cameraInfo {
+    width: 436px;
+}
+ .mapInfo {
+    width: 516px;
+}
+ .history {
+    width: 436px;
+}
+ .newsoffers {
+    width: 516px;
+}
+}
+
+@media (max-width: 1200px) {
+    .containCameraAndMap {
+    padding: 0 15px;
+}
+    .cameraInfo {
+    padding-right: 15px;
+}
+.mapInfo {
+    padding-left: 15px;
+}
+.history {
+    padding-right: 15px;
+}
+.newsoffers {
+    padding-left: 15px;
+}.camera {
+    padding-right: 15px;
+}
+ .balance {
+    padding-left: 15px;
+}
+ .mapInfo > img {
+    width: 100%;
+}
+ .camera > div > div > div {
+    display: inline-block;
+    float: none;
+    margin: 0 7px;
+}
+.newsoffers > div {
+    margin: 0;
+    width: 100%;
+}
+
+
+
+}
+
+
+
+@media (max-width: 992px) {
+    .registration label {
+    font-size: 13px;
+}
+   .forgetpass {
+    
+    width: 100%;
+}
+    .menuContain {
+    width: 100%;
+}
+    .MobileStyle {
+    display: none;
+
+}
+    
+    .DownloadApp a {
+    display: inline-block;
+    float: none;
+    margin: 50px auto auto;
+}
+    .DownloadApp {
+    text-align: center;
+}
+
+    .detailsHow div:first-child {
+    margin-right: 10px;
+}
+.detailsHow div {
+    display: inline-block;
+    float: none;
+    margin: 0 10px;
+    width: 27%;
+}
+.detailsHow img {
+    max-width: 100%;
+}
+ .menuContain,.headerBtnContain {
+    padding: 0 15px;
+}
+ .menuContain .bottomMenu {
+    float: none;
+    margin: auto;
+}
+}
+@media (max-width:  992px) and (min-width: 768px) {
+    
+    .dragDrop .camera > div > div > div {
+    margin: 0 38px;
+}
+}
+
+
+@media (max-width: 768px) {
+    .completeaddress {
+
+height:0;
+
+}
+    .howgetstarted > div > div:first-child {
+    height: auto;
+    margin-bottom: 26px;
+}
+    .howgetstarted > div {
+    margin-top: 50px;
+}
+    .howgetstarted {
+    margin-top: 0;
+}
+    .getstartefdefiniotn p {
+    font-size: 34px;
+    margin-bottom: 0;
+    margin-top: 90px;
+}
+    .getstartefdefiniotn span {
+    font-size: 18px;
+}
+
+ .camera > div, .balance > div, .dragDrop {
+    height: 278px !important;
+}
+         .dragDrop .camera > div > div > div {
+    margin: 0 36px;
+}
+
+    .dragDrop .offline {
+    margin-right:0 !important;
+    }
+    .allCameraContent {
+    height: 180px !important;
+}
+    .dragDrop .camera > div > div > div {
+    margin: 0 16%;
+}
+    
+    .mapInfo > div {
+ 
+    max-width: 100% !important;
+}
+    .history > div {
+    
+    min-height: auto;
+}
+ .mapInfo {
+    margin-top: 23px;
+}
+  .navbar-brand {
+
+ display:block;
+
+}
+}
+@media (max-width: 450px) {
+    
+    .detailsHow div {
+    display: inline-block;
+    float: none;
+    margin-bottom: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+    .dragDrop .camera > div > div > div {
+    margin: auto;
+    width: 100%;
+}
+    .dragDrop {
+    height: auto;
+       min-height: 365px;
+
+}
+    .cameraInfo {
+    min-height: 360px;
+}
+
+    .allCameraContent {
+    min-height: 200px;
+}
+}
+
+@media (max-width: 400px) {
+    .forgetpass, .getback {
+  
+    margin-top: 10px !important;
+   
+}
+    .completeaddress {
+    height: 10px;
+}
+    .getback {
+    margin-right:0;
+}
+    .howgetstarted > div h6 {
+    top: 0px;
+}
+   .howgetstarted > div img {
+    height: 100%;
+    width: 50%;
+}
+   .morecameradetails {
+    padding: 0 15px;
+}
+   .morecameradetails div img {
+    width: 100%;
+}
+        .dragDrop {
+    height: auto;
+       min-height: 650px;
+
+}
+    .cameraInfo {
+    min-height: 650px;
+}
+
+    .dragDrop .searchcamera {
+    margin: 50px 11% 0;
+}
+    .searchcamera {
+    margin: 20px 5% 0;
+    position: absolute;
+    width: 80%;
+}
+
+    .camera, .balance {
+    
+      width:100%;
+    
+    }
+    .dragDrop .row {
+     
+        text-align:center;
+    
+    }
+    .dragDrop .slimScrollDiv {
+    clear: both;
+    margin-bottom: 13px;
+    margin-left: 15px;
+    width: 96% !important;
+}
+  .dragDrop .camera {
+    display: inline-block;
+    float: none;
+    margin: auto;
+    width: 70%;
+}
+    .balance {
+    margin-top: 21px;
+}
+ .searchHeader,.containNotification,.languageIcon {
+    display: inline-block;
+    float: none;
+    margin: auto;
+}
+.logo {
+    text-align: center;
+    width: 100%;
+}
+ .logo img {
+    display: inline;
+    float: none;
+    margin-left: auto;
+    margin-right: auto;
+}
+ .headerBtnContain {
+    margin: 10px 0;
+    text-align: center;
+    width: 100%;
+}
+}
+
+@media (max-width: 400px) {
+
+    .formbuttons a, .formbuttons button {
+
+    margin-top: 12px;
+    width: 100%;
+}
+    .form-group {
+    margin-bottom: 2px;
+}
+    .logincontent label {
+    font-size: 15px;
+    margin-top: 10px;
+    text-align: center;
+    width: 100%;
+}
+.DownloadApp a {
+    margin: 10px auto auto;
+}
+
+}
